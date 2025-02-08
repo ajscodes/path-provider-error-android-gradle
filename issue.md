@@ -1,5 +1,6 @@
 ###Your issue might be different!
-'''
+
+```
 Launching lib\main.dart on SM A345F in debug mode...
 
 1.Warning: SDK processing. This version only understands SDK XML versions up to 3 but an SDK XML file of version 4 was encountered. This can happen if you use versions of Android Studio and the command-line tools that were released at different times.
@@ -23,5 +24,5 @@ BUILD FAILED in 19m 5s
 Error: Gradle task assembleDebug failed with exit code 1
 
 Exited (1).
-'''
+```
 
